@@ -1,0 +1,21 @@
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+
+@import 'base/reset';
+@import 'base/typography';
+
+@import 'layout/grid';
+@import 'layout/footer';
+@import 'layout/forms';
+@import 'layout/sections';
+
+
+@import 'components/buttons';
+@import 'components/carousel';
+
+
+@import 'pages/accueil';
+@import 'pages/chambre';
+@import 'pages/contact';
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
